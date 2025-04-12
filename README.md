@@ -24,7 +24,7 @@ CSS for styling.
 
 # Useful Websites
 
-- [Web Site Name](https://www.rust-lang.org/)
+- [Rust Lang](https://www.rust-lang.org/)
 
 # Future Work
 
