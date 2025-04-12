@@ -1015,6 +1015,8 @@ dependencies = [
  "printpdf",
  "regex",
  "sanitize-filename",
+ "serde",
+ "serde_json",
  "tempfile",
  "tokio",
 ]
